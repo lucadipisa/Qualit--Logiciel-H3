@@ -1,1 +1,1 @@
-# Qualit-Logiciel
+# Projet qualité logiciel
