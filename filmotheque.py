@@ -1,5 +1,7 @@
-class Filmotheque:
+class Filmotheque:class Filmotheque:
     def __init__(self, notification_service=None):
+        self.films = {}
+        
         self.films = {}
         self.utilisateurs = set()
         self.emprunts = {}
